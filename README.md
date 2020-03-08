@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+It is okay to fail, as long as you keep trying!
